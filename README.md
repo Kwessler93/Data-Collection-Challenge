@@ -36,7 +36,9 @@ This project is part of a Data Collection Challenge, aimed at gathering and anal
   - Generated descriptive statistics for weather data.
   - Plotted trends using matplotlib and seaborn.
   - Created a Pandas DataFrame to easily analyze the data:
+
   ![alt text](Images/weather_data_df.png)
+  
   - Answered the following questions using the ouput:
   - How many months exist on Mars?
 
